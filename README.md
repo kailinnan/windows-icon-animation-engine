@@ -1,6 +1,5 @@
 # Windows Icon Animation Engine
 
-第一阶段的最小控制台实现：
 
 - 通过 Windows Desktop Shell 获取 `IShellView` / `IFolderView`
 - 枚举桌面图标 PIDL 并读取坐标
